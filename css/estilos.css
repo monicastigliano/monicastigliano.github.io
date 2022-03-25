@@ -34,7 +34,7 @@
 }
 
 .mdl-layout{
-    min-width: 360px;
+    min-width: 360px;/*Para cumplir con requerimiento PWA*/
 }
 .demo-list-icon {
     /* width: 300px; */
